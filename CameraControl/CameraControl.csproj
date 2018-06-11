@@ -34,6 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DVPCameraCS">
+      <HintPath>..\..\..\陈军硕士毕业设计资料\软件\MV-DVP系列工业相机驱动及开发包\MV-DVP系列工业相机驱动及开发包\library\Visual C#\x86\DVPCameraCS.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
